@@ -84,8 +84,8 @@ function HomePage() {
                 <p className="lead">Experience the ultimate in beauty and relaxation with our expert team and luxurious treatments.
                     </p>
                 <div className="d-flex flex-column flex-md-row gap-2 mt-3">
-                    <Link to='/ ' className="theme-btn1">Book Appointment</Link>
-                    <Link to='/ ' className="theme-btn2">Get Membership</Link>
+                    <Link to='/booking ' className="theme-btn1">Book Appointment</Link>
+                    <Link to='/membership ' className="theme-btn2">Get Membership</Link>
                 </div>
             </div>
         </section>

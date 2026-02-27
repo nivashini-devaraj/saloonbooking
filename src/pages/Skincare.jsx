@@ -91,8 +91,8 @@ function SkinCare() {
                     <h1 className="fw-bold">Skin Care Treatments</h1>
                     <p className="lead">Achieve glowing, healthy skin with our expert treatments tailored to your needs. </p>
                     <div className="d-flex flex-column flex-md-row gap-2 mt-3">
-                        <Link to='/ ' className="theme-btn1">Book Appointment</Link>
-                        <Link to='/ ' className="theme-btn2">Get Membership</Link>
+                        <Link to='/booking' className="theme-btn1">Book Appointment</Link>
+                        <Link to='/membership' className="theme-btn2">Get Membership</Link>
                     </div>
                 </div>
             </section>

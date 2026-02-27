@@ -66,7 +66,7 @@ function Membership() {
                 <p className="lead text-center">Unlock exclusive benefits, significant discounts on all services, and priority booking. Elevate your salon experience with our membership plans.
                      </p>
                 <div className="d-flex flex-column flex-md-row gap-2 mt-3">
-                    <Link to='/ ' className="theme-btn1">Join Membership</Link>
+                    <Link to='/membership' className="theme-btn1">Join Membership</Link>
                 </div>
             </div>
         </section>
